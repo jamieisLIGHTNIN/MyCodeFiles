@@ -11,6 +11,7 @@
     <script src="script.js"></script>
 </body>
 </html>
+Copy HTML and do something like paste into a clear browser
 document.getElementById('colorButton').addEventListener('click', function() {
     changeBackgroundColor();
 });
